@@ -1,9 +1,0 @@
-@font-face {
-    font-family: "Cascadia";
-    src: url("../fonts/Cascadia.woff2");
-    font-display: swap;
-}
-
-body {
-    font-family: "Cascadia";
-}
