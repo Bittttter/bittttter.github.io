@@ -1,6 +1,6 @@
-## MIT 计算机科学课程挑战
+## MIT Course Challenge
 
-> 我不希望这只是一次心血来潮。
+> I don't want this to be just a whim.
 
 ### MIT 计算机科学课程是什么？
 
