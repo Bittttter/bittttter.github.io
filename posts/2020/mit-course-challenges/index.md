@@ -2,8 +2,9 @@
 
 > I don't want this to be just a whim.
 
-### MIT 计算机科学课程是什么？
+### what is MIT course？
 
+It's 
 它是麻省理工计算机科学专业的本科课程，[戳这里](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)可以看到具体培养计划。
 
 ### 为什么要自学这些课程？
