@@ -1,8 +1,4 @@
-@font-face {
-    font-family: "cute";
-    src: url("../fonts/bradhitc.ttf");
-    font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 /*!
  * @primer/css/core
  * http://primer.style/css
@@ -17,7 +13,7 @@
 
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 html {
-    font-family: cute;
+    font-family:'Indie Flower', cursive;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -248,7 +244,7 @@ button,input,select,textarea {
 }
 
 body {
-    font-family: cute,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-family:'Indie Flower', cursive,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
     font-size: 14px;
     line-height: 1.5;
     color: var(--color-text-primary);
@@ -1263,7 +1259,7 @@ textarea.form-control {
 }
 
 .input-monospace {
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace
 }
 
 .input-hide-webkit-autofill::-webkit-contacts-auto-fill-button {
@@ -9889,7 +9885,7 @@ a.tabnav-extra:hover {
 }
 
 .text-mono {
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace!important
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace!important
 }
 
 .user-select-none {
@@ -10956,7 +10952,7 @@ span.CodeMirror-selectedtext {
 }
 
 .cm-s-github-light .CodeMirror-lines {
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
     font-size: 12px;
     background: var(--color-codemirror-lines-bg);
     line-height: 1.5
@@ -11405,7 +11401,7 @@ body.intent-mouse [tabindex="0"]:focus,body.intent-mouse details-dialog:focus {
 }
 
 g-emoji {
-    font-family: cute,Apple Color Emoji,Segoe UI,Segoe UI Emoji,Segoe UI Symbol;
+    font-family:'Indie Flower', cursive,Apple Color Emoji,Segoe UI,Segoe UI Emoji,Segoe UI Symbol;
     font-size: 1em;
     font-style: normal!important;
     font-weight: 400;
@@ -13540,7 +13536,7 @@ a.branch-name .octicon {
 }
 
 .markdown-body {
-    font-family: cute,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-family:'Indie Flower', cursive,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
     font-size: 16px;
     line-height: 1.5;
     word-wrap: break-word
@@ -16278,7 +16274,7 @@ form.select-menu-item>div:first-child {
 }
 
 .commit .sha,.commit .sha-block {
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 12px
 }
 
@@ -16322,7 +16318,7 @@ a.commit-ref:hover {
 .commit-desc pre {
     max-width: 700px;
     margin-top: 10px;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 11px;
     line-height: 1.45;
     color: var(--color-auto-gray-7);
@@ -16345,7 +16341,7 @@ a.commit-ref:hover {
 
 .commit-tease-sha {
     display: inline-block;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 90%;
     color: var(--color-auto-gray-7)
 }
@@ -16931,7 +16927,7 @@ a.commit-ref:hover {
     min-width: 50px;
     padding-right: 10px;
     padding-left: 10px;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 12px;
     line-height: 20px;
     color: var(--color-diff-blob-num-text);
@@ -16971,7 +16967,7 @@ a.commit-ref:hover {
 
 .blob-code-inner {
     overflow: visible;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 12px;
     color: var(--color-text-primary);
     word-wrap: normal;
@@ -20007,7 +20003,7 @@ body {
     display: inline-block;
     width: 150px;
     height: 30px;
-    font-family: cute,Brush Script MT,cursive;
+    font-family:'Indie Flower', cursive,Brush Script MT,cursive;
     font-size: 17px;
     line-height: 33px;
     color: #767676;
@@ -20023,7 +20019,7 @@ body {
     left: -7px;
     display: inline-block;
     padding: 2px 5px;
-    font-family: cute,monospace;
+    font-family:'Indie Flower', cursive,monospace;
     font-size: 10px;
     line-height: 1;
     text-align: center;
@@ -20043,7 +20039,7 @@ body {
 
 .credit-card .text {
     display: block;
-    font-family: cute,monospace;
+    font-family:'Indie Flower', cursive,monospace;
     font-size: 7px;
     font-weight: 600;
     line-height: 1.1;
@@ -21011,7 +21007,7 @@ body {
     max-height: 20em;
     margin: 0;
     overflow-y: auto;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 12px;
     list-style: none;
     background-color: var(--color-bg-primary);
@@ -23373,7 +23369,7 @@ g.active rect {
 .CommunityTemplate-highlight {
     padding: 2px 4px;
     margin: 0;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 12px;
     font-style: normal;
     font-weight: 600;
@@ -24663,7 +24659,7 @@ dl.form.developer-select-account {
 }
 
 .file-info {
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 12px;
     line-height: 32px
 }
@@ -25535,7 +25531,7 @@ dl.form.developer-select-account {
 .hook-delivery-guid {
     display: inline-block;
     padding: 2px 6px;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 12px;
     color: var(--color-branch-name-text);
     background-color: var(--color-branch-name-bg);
@@ -25583,7 +25579,7 @@ dl.form.developer-select-account {
     display: inline-block;
     padding: 4px 6px 3px;
     margin-left: 4px;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 10px;
     line-height: 1.1;
     color: var(--color-text-white);
@@ -28343,7 +28339,7 @@ body.page-responsive .flash-full .container {
 
 .export-phrase pre {
     padding-left: 10px;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     white-space: pre-wrap;
     border-left: 1px solid #eee
 }
@@ -31597,7 +31593,7 @@ dl.new-email-form {
 }
 
 .oauth-app-info-container dl.keys dd {
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     color: #333
 }
 
@@ -31974,7 +31970,7 @@ table.security-history-detail td {
 
 .two-factor-recovery-codes {
     margin: 30px 0;
-    font-family: cute,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-family:'Indie Flower', cursive,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 21px
 }
 
@@ -37047,7 +37043,7 @@ auto-check .is-autocheck-errored {
 }
 
 .hx_text-body {
-    font-family: cute,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji!important
+    font-family:'Indie Flower', cursive,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji!important
 }
 
 .autocomplete-item {
